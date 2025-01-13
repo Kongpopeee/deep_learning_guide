@@ -1,4 +1,5 @@
-# Source code จากหนังสือ https://www.se-ed.com/e-book-audio/Fundamental-of-Deep-Learning-in-Practice-(PDF)-t71vf95a2b0ehe7vtrg8
+# Source code 
+จากหนังสือ https://www.se-ed.com/e-book-audio/Fundamental-of-Deep-Learning-in-Practice-(PDF)-t71vf95a2b0ehe7vtrg8
 
 ## บทนำ
 ทำความเข้าใจแนวคิด การพัฒนาโมเดล และการประยุกต์ใช้งาน ด้วยการเขียนโค้ด Python บน Jupyter Notebook โดยใช้ Library เช่น TensorFlow, Scikit - Learn และ NumPy
